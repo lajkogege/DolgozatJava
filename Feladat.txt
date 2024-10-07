@@ -1,0 +1,9 @@
+Dolgozat 2024.10.07
+Egy emberünk tudjon bemutatkozni mikor megmondja nevét, korát. 
+Születésnapján öregszik egy évet, illetve megtanulhat nyelveket. 
+Ha ismer nyelvet az bemutatkozásnál mondja milyen nyelveken beszél. Konzolos nézet kell csak. 
+OOP, MVC megközelítés
+Mi a neve?
+Születésnapjá öregszik egy évet.
+Hány éves?
+Milyen nyelveket tud?
